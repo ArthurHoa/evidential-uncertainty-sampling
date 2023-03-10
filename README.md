@@ -51,9 +51,9 @@ CERTAINTY = "UNC"
 
 Output:  
 
-DATASET | UNCERTAINTY 
+DATASET | UNCERTAINTY  
 :--:|:--:
-<img src="extra/iris.png" width="220"> |  <img src="extra/unc.png" width="220"> 
+<img src="extra/iris.png" width="220"> |  <img src="extra/unc.png" width="220">  
 
 ## Faster run
 
@@ -67,3 +67,12 @@ SIZE_X1 = 60
 SIZE_X2 = 50
 
 ```
+
+### Example
+
+SIZE 1 = 60x50  
+SIZE 2 = 30x25  
+
+SIZE 1 | SIZE 2  
+:--:|:--:
+<img src="extra/unc.png" width="220"> |  <img src="extra/unc_reduced.png" width="220">
