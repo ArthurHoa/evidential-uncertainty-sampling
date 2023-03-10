@@ -23,11 +23,11 @@ The dataset can be chosen from the following:
 
 LINE | SIN | CIRCLE | IRIS  
 :--:|:--:|:--:|:--:
-<img src="extra/line.png" width="80"> |  <img src="extra/sin.png" width="80"> | <img src="extra/circle.png" width="80"> | <img src="extra/iris.png" width="80">
+<img src="extra/line.png" width="100"> |  <img src="extra/sin.png" width="100"> | <img src="extra/circle.png" width="100"> | <img src="extra/iris.png" width="100">
 
 LOG | IMP | TRIPLE | DOG  
 :--:|:--:|:--:|:--:
-<img src="extra/log.png" width="80"> |  <img src="extra/imp.png" width="80"> | <img src="extra/triple.png" width="80"> | <img src="extra/dog.png" width="80">
+<img src="extra/log.png" width="100"> |  <img src="extra/imp.png" width="100"> | <img src="extra/triple.png" width="100"> | <img src="extra/dog.png" width="100">
 
 ## Uncertainties
 
@@ -53,7 +53,7 @@ Output:
 
 DATASET | UNCERTAINTY 
 :--:|:--:
-<img src="extra/iris.png" width="140"> |  <img src="extra/unc.png" width="140"> 
+<img src="extra/iris.png" width="220"> |  <img src="extra/unc.png" width="220"> 
 
 ## Faster run
 
