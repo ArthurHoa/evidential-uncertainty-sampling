@@ -17,10 +17,6 @@ CERTAINTY accepted values : UNC, EP, EV_UNC, PL
 Run code:  
 *python3 main.py*
 
-## Supplementary materials
-
-[Link to the supplementary materials](supplementary_materials.pdf)
-
 ## Datasets
 
 The dataset can be chosen from the following:  
